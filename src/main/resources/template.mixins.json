@@ -1,13 +1,11 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.bluebunnex.template.mixin",
+  "package": "net.bluebunnex.waila.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [],
   "server": [],
-  "client": [
-    "Tooltip"
-  ],
+  "client": [ "Tooltip" ],
   "injectors": {
     "defaultRequire": 1
   }

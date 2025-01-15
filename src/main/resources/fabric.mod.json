@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "template",
+  "id": "waila",
   "version": "${version}",
-  "name": "Template",
-  "description": "",
+  "name": "What Am I Looking At? for StationAPI",
+  "description": "A simple spiritual port of 'What Am I Looking At?' to StationAPI (Minecraft b1.7.3).",
   "authors": [ "BlueBunnex" ],
   "license": "MIT",
-  "icon": "assets/template/icon.png",
+  "icon": "assets/waila/icon.png",
   "environment": "*",
   "entrypoints": {
-    "stationapi:event_bus": [ "net.bluebunnex.template.Template" ],
+    "stationapi:event_bus": [],
     "stationapi:event_bus_client": [],
     "stationapi:event_bus_server": []
   },

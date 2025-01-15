@@ -1,4 +1,4 @@
-package net.bluebunnex.template.mixin;
+package net.bluebunnex.waila.mixin;
 
 import net.minecraft.block.Block;
 import net.minecraft.client.Minecraft;
